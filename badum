@@ -268,7 +268,7 @@
                 }
                 context.closePath();
                 // create the fill
-                context.fillStyle = 'purple';
+                context.fillStyle = 'orchid';
                 context.fill();
                 // create the image
                 var image = new Image();
